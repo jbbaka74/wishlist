@@ -3,42 +3,42 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requester</element>
             <position>0</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2025-08-03 16:02:57</sys_created_on>
-            <sys_id>fd137d8b9f4322107f446c0e7524ab8f</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-03 20:38:32</sys_created_on>
+            <sys_id>9622be039f8722107f446c0e7524abbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list_wish_item" sys_domain="global" view="Default view">bfe2798b9f4322107f446c0e7524ab5c</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2025-08-03 16:02:57</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-03 20:38:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>item</element>
             <position>1</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2025-08-03 16:02:57</sys_created_on>
-            <sys_id>71137d8b9f4322107f446c0e7524ab90</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-03 20:38:32</sys_created_on>
+            <sys_id>1e22be039f8722107f446c0e7524abbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list_wish_item" sys_domain="global" view="Default view">bfe2798b9f4322107f446c0e7524ab5c</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2025-08-03 16:02:57</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-03 20:38:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_by</element>
             <position>2</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2025-08-03 16:02:57</sys_created_on>
-            <sys_id>f1137d8b9f4322107f446c0e7524ab90</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-03 20:38:32</sys_created_on>
+            <sys_id>9e22be039f8722107f446c0e7524abbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list_wish_item" sys_domain="global" view="Default view">bfe2798b9f4322107f446c0e7524ab5c</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2025-08-03 16:02:57</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-03 20:38:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>quantity</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-03 18:10:31</sys_created_on>
-            <sys_id>1a409e4b9fc322107f446c0e7524abe0</sys_id>
+            <sys_created_on>2025-08-03 20:38:32</sys_created_on>
+            <sys_id>1222be039f8722107f446c0e7524abbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list_wish_item" sys_domain="global" view="Default view">bfe2798b9f4322107f446c0e7524ab5c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-03 18:10:31</sys_updated_on>
+            <sys_updated_on>2025-08-03 20:38:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,27 @@
             <element>url</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-03 18:10:31</sys_created_on>
-            <sys_id>da401e8b9fc322107f446c0e7524aba8</sys_id>
+            <sys_created_on>2025-08-03 20:38:32</sys_created_on>
+            <sys_id>9222be039f8722107f446c0e7524abbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list_wish_item" sys_domain="global" view="Default view">bfe2798b9f4322107f446c0e7524ab5c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-03 18:10:31</sys_updated_on>
+            <sys_updated_on>2025-08-03 20:38:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-03 20:38:32</sys_created_on>
+            <sys_id>1622be039f8722107f446c0e7524abbe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list_wish_item" sys_domain="global" view="Default view">bfe2798b9f4322107f446c0e7524ab5c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-03 20:38:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
